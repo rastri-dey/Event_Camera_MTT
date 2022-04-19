@@ -1,4 +1,4 @@
-# Event_Camera_MTT
+# Event Camera Based Multiple Target Tracking
 This is a research project for ROB 590 Independent Study for Winter 2022 at the University of Michigan. The goal of this project is to perform Multiple Target Tracking for Event Camera Data. The work has been evaluated on 3 indoor datasets collected by the research group at the University of Zurich, for target tracking using event streams. 
 ## Installations
 Clone the repository
@@ -16,7 +16,7 @@ Save "shapes_6dof.txt" as "events_shapes_6dof.mat"
 
 ## Result
 ### Target Trajectory for Shapes_rotation sequence
-![](images/Cluster_Track_ValGate2.jpg)
+![](images/Cluster_Track_ValGate.jpg)
 ![](images/GT_Traj_X_shapes_Rot.jpg)
 
 ## Relevant Papers and Work
