@@ -22,6 +22,7 @@ Event_Camera_Multiple_Target_Tracking.m
 ### Target Trajectory for Shapes_rotation sequence
 ![](images/Cluster_Track_ValGate.jpg)
 ![](images/GT_Traj_X_shapes_Rot.jpg)
+![](images/Evaluation_Error_Table.jpg)
 
 ## Acknowledgement
 Professor Katie Skinner for ROB 590 in Winter 2022.
