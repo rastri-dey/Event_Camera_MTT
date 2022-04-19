@@ -26,4 +26,4 @@ The target trajectory for the 3 datasets has been evaluated and compared with th
 ![](images/Evaluation_Error_Table.jpg)
 
 ## Acknowledgement
-Professor Katie Skinner for ROB 590 in Winter 2022.
+Professor Katie Skinner of University of Michigan, for ROB 590 in Winter 2022.
