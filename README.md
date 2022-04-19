@@ -6,7 +6,7 @@ Clone the repository
 git clone git@github.com:rastri-dey/Event_Camera_MTT.git
 mkdir Data
 ```
-Download the dataset from https://rpg.ifi.uzh.ch/davis_data.html
+Download the dataset from https://rpg.ifi.uzh.ch/davis_data.html.
 The dataset are available in zip format of text files. Convert the .txt files in MATLAB table format and save as .mat files indicated below:
 ```
 Save "shapes_rotation.txt" as "events_shapes_rotation.mat"
