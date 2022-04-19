@@ -3,7 +3,7 @@ This is a research project for ROB 590 Independent Study for Winter 2022 at the 
 ## Installations
 Clone the repository
 ```
-git clone git@github.com:
+git clone git@github.com:rastri-dey/Event_Camera_MTT.git
 mkdir Data
 ```
 Download the dataset from https://rpg.ifi.uzh.ch/davis_data.html
