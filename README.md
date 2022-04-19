@@ -13,6 +13,10 @@ Save "shapes_rotation.txt" as "events_shapes_rotation.mat"
 Save "shapes_translation.txt" as "events_shapes_translation.mat"
 Save "shapes_6dof.txt" as "events_shapes_6dof.mat"
 ```
+Run the main file.
+```
+Event_Camera_Multiple_Target_Tracking.m
+```
 
 ## Result
 ### Target Trajectory for Shapes_rotation sequence
