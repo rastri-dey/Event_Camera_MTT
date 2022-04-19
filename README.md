@@ -17,7 +17,8 @@ Run the main file.
 ```
 Event_Camera_Multiple_Target_Tracking.m
 ```
-
+## Discussion
+The target trajectory for the 3 datasets has been evaluated and compared with the existing approach by the research group: https://ieeexplore.ieee.org/document/8593380?msclkid=a5bfd524bff011ec9414f0f574b704cf. Under all the 3 datasets, the event based tracking performs with high accuracy.
 ## Result
 ### Target Trajectory for Shapes_rotation sequence
 ![](images/Cluster_Track_ValGate.jpg)
