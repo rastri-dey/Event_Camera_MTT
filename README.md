@@ -15,7 +15,7 @@ Save "shapes_6dof.txt" as "events_shapes_6dof.mat"
 
 ## Result
 ### Target Trajectory for Shapes_rotation sequence
-![](scripts/images/)
+![](scripts/images/GT_Traj_X_shapes_Rot.jpg)
 
 ## Relevant Papers and Work
 
