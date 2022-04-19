@@ -16,10 +16,13 @@ Save "shapes_6dof.txt" as "events_shapes_6dof.mat"
 
 ## Result
 ### Target Trajectory for Shapes_rotation sequence
+![](images/Cluster_Track_ValGate2.jpg)
 ![](images/GT_Traj_X_shapes_Rot.jpg)
-![](images/GT_Traj_Y_shapes_Rot.jpg)
-## Relevant Papers and Work
 
+## Relevant Papers and Work
+https://ieeexplore.ieee.org/document/8593380?msclkid=a5bfd524bff011ec9414f0f574b704cf
+https://par.nsf.gov/servlets/purl/10189706?msclkid=c2d6bd1fbff011ec9c4fbcba0bf82255
+https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/trit.2019.0107?msclkid=e43304d4bff011ecae24a5ddf93eca70
 Original Dataset: https://rpg.ifi.uzh.ch/davis_data.html
 
 ## Acknowledgement
