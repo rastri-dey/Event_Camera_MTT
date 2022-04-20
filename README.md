@@ -1,7 +1,7 @@
 # Event Camera Based Multiple Target Tracking
 This is a research project for ROB 590 Independent Study for Winter 2022 at the University of Michigan. The goal of this project is to perform Multiple Target Tracking for Event Camera Data. The work has been evaluated on 3 indoor datasets collected by the research group at the University of Zurich, for target tracking using event streams. 
 ## Installations
-Clone the repository
+Clone the repository.
 ```
 git clone git@github.com:rastri-dey/Event_Camera_MTT.git
 mkdir Data
