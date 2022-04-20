@@ -13,7 +13,7 @@ Save "shapes_rotation.txt" as "events_shapes_rotation.mat"
 Save "shapes_translation.txt" as "events_shapes_translation.mat"
 Save "shapes_6dof.txt" as "events_shapes_6dof.mat"
 ```
-Note the mat files should be in table format to read the event data. Run the main file.
+Please note, the mat files should be in table format to read the event data from the main script. Run the main file.
 ```
 Event_Camera_Multiple_Target_Tracking.m
 ```
